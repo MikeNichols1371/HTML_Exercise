@@ -1,0 +1,26 @@
+body
+{
+    background-color: gold;
+}
+main
+{
+background-color: darkred;
+}
+
+
+aside{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+    border-color: antiquewhite;
+}
+
+
+footer
+{
+background-color: ghostwhite;
+
+}
