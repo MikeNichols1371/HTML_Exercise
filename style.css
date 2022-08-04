@@ -1,26 +1,45 @@
 body
 {
     background-color: gold;
+    text-align: center;
+    color:black;
 }
 main
 {
 background-color: darkred;
+color: gold;
+text-align: center;
+}
+exercise3
+{
+    align-items: left;
 }
 
-
-aside{
+.aside{
     width: 30%;
     padding-left: 15px;
     margin-left: 15px;
     float: right;
     font-style: italic;
-    background-color: lightgray;
+    background-color:darkred;
+    color: gold;
     border-color: antiquewhite;
+    text-align: left;
 }
 
 
 footer
 {
-background-color: ghostwhite;
+background-color: darkred;
+color: aliceblue;
+position: fixed; bottom: 0; right: 0; left: 0; height: 30px;
 
+}
+list1
+{
+    text-align: left;
+}
+list2
+{
+    text-align: left;
 }
