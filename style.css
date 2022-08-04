@@ -26,7 +26,18 @@ exercise3
     border-color: antiquewhite;
     text-align: left;
 }
-
+.aside2
+{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: left;
+    font-style: italic;
+    background-color:darkred;
+    color: gold;
+    border-color: antiquewhite;
+    text-align: left;
+}
 
 footer
 {
@@ -34,4 +45,9 @@ background-color: darkred;
 color: aliceblue;
 position: fixed; bottom: 0; right: 0; left: 0; height: 30px;
 
+}
+.g
+{
+    position: fixed; bottom: 1; right: 0; left: 0;
+    text-align: center;
 }
